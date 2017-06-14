@@ -28,9 +28,10 @@ namespace TrackerLibrary
         /// 
         /// 
         /// </param>
+        
         public MatchupEntryModel(double scoreInit)
         {
-
+            Console.WriteLine();
         }
     }
   
